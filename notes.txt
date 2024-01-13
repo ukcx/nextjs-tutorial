@@ -1,3 +1,4 @@
 npm i @vercel/postgres
 npm i use-debounce
 npm run lint for accessibility issues
+npm install next-auth@beta
